@@ -1,0 +1,10 @@
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.csprojAssemblyReference.cache
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.EmergencyVehicleForm.resources
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.Properties.Resources.resources
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.csproj.GenerateResource.cache
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.csproj.CoreCompileInputs.cache
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\bin\Debug\EmergencyFleet.exe.config
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\bin\Debug\EmergencyFleet.exe
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\bin\Debug\EmergencyFleet.pdb
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.exe
+C:\Users\30023737\source\repos\EmergencyFleet\EmergencyFleet\obj\Debug\EmergencyFleet.pdb

@@ -1,0 +1,20 @@
+C:\Users\30023737\source\repos\GameApp\GameApp\bin\Debug\GameApp.exe.config
+C:\Users\30023737\source\repos\GameApp\GameApp\bin\Debug\GameApp.exe
+C:\Users\30023737\source\repos\GameApp\GameApp\bin\Debug\GameApp.pdb
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.GameForm.resources
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.exe
+C:\Users\30023737\source\repos\GameApp\GameApp\obj\Debug\GameApp.pdb
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\bin\Debug\GameApp.exe.config
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\bin\Debug\GameApp.exe
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\bin\Debug\GameApp.pdb
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.csprojAssemblyReference.cache
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.GameForm.resources
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.Properties.Resources.resources
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.csproj.GenerateResource.cache
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.csproj.CoreCompileInputs.cache
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.exe
+D:\Assesment\C#\Term 2\Assesment\1.4\GameApp\GameApp\obj\Debug\GameApp.pdb

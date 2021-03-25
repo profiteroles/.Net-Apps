@@ -1,0 +1,14 @@
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\bin\Debug\UVReader.exe.config
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\bin\Debug\UVReader.exe
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\bin\Debug\UVReader.pdb
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\obj\Debug\UVReader.csprojAssemblyReference.cache
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\obj\Debug\UVReader.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\obj\Debug\UVReader.exe
+C:\Users\student\Documents\Erol\Assesment\2\UVReader\UVReader\obj\Debug\UVReader.pdb
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\bin\Debug\UVReader.exe.config
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\bin\Debug\UVReader.exe
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\bin\Debug\UVReader.pdb
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\obj\Debug\UVReader.csprojAssemblyReference.cache
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\obj\Debug\UVReader.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\obj\Debug\UVReader.exe
+C:\Users\student\Documents\Erol\Assesment\C#\2\UVReader\UVReader\obj\Debug\UVReader.pdb

@@ -1,0 +1,52 @@
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.csprojAssemblyReference.cache
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.Properties.Resources.resources
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.csproj.GenerateResource.cache
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.csproj.CoreCompileInputs.cache
+C:\Users\6000707\source\repos\IoT_Logic\bin\Debug\IoT_Logic.exe.config
+C:\Users\6000707\source\repos\IoT_Logic\bin\Debug\IoT_Logic.exe
+C:\Users\6000707\source\repos\IoT_Logic\bin\Debug\IoT_Logic.pdb
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.LogicForm.resources
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.exe
+C:\Users\6000707\source\repos\IoT_Logic\obj\Debug\IoT_Logic.pdb
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\bin\Debug\IoT_Logic.exe.config
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\bin\Debug\IoT_Logic.exe
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\bin\Debug\IoT_Logic.pdb
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.csprojAssemblyReference.cache
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.LogicForm.resources
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.Properties.Resources.resources
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.csproj.GenerateResource.cache
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.csproj.CoreCompileInputs.cache
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.exe
+E:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.pdb
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\bin\Debug\IoT_Logic.exe.config
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\bin\Debug\IoT_Logic.exe
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\bin\Debug\IoT_Logic.pdb
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.csprojAssemblyReference.cache
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.LogicForm.resources
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.Properties.Resources.resources
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.csproj.GenerateResource.cache
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.csproj.CoreCompileInputs.cache
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.exe
+F:\@ Programming I\2020_S2_Dev_Docs\Assessments\IoT_Logic\obj\Debug\IoT_Logic.pdb
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\bin\Debug\IoT_Logic.exe.config
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\bin\Debug\IoT_Logic.exe
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\bin\Debug\IoT_Logic.pdb
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.csprojAssemblyReference.cache
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.LogicForm.resources
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.Properties.Resources.resources
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.csproj.GenerateResource.cache
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.exe
+E:\@ Programming I\2020_S2_Docs\Assessments_A\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.pdb
+C:\Users\30023737\Downloads\AT2_IoT_Logic_2020.S2.StudentVersion\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.csprojAssemblyReference.cache
+C:\Users\30023737\Downloads\AT2_IoT_Logic_2020.S2.StudentVersion\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.exe
+C:\Users\30023737\Downloads\AT2_IoT_Logic_2020.S2.StudentVersion\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.pdb
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\bin\Debug\IoT_Logic.exe.config
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\bin\Debug\IoT_Logic.exe
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\bin\Debug\IoT_Logic.pdb
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.csprojAssemblyReference.cache
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.LogicForm.resources
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.Properties.Resources.resources
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.csproj.GenerateResource.cache
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.csproj.CoreCompileInputs.cache
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.exe
+C:\Users\30023737\Documents\Erol\Assesment\C#\5\AT2_IoT_Logic_A\obj\Debug\IoT_Logic.pdb

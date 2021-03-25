@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h2>Prime Number Finder</h2>
+<h2>Sun UV Meter</h2>
 
 <div>
 Details are coming soon<br>

@@ -1,4 +1,18 @@
-# All-My-.Net-Application
-To make easy for myself and for my clients I collecting all my .NET app under one roof.
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
 
-Note to myself "I haven't got around to rerun the applications update and take a screenshot as well as Readme files"
+<h2>Music Application</h2>
+
+<div>
+The most ugliest video/music player you could ever come accross with.<br>
+This was my school project. Just saying befor you make a judgement :D <br>
+<br />
+</div>
+<img src="shot/1.png" alt="Screenshot">
+<img src="shot/2.png" alt="Screenshot">
+<img src="shot/3.png" alt="Screenshot">
+</body>
+</html>

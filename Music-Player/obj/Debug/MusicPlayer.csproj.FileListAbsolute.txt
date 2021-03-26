@@ -1,0 +1,45 @@
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\ProFitErolPC\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\1\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.MusicPlayer.resources
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.MusicPlayer.resources
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\student\Desktop\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache

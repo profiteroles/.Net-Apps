@@ -1,0 +1,30 @@
+C:\Users\30023737\source\repos\AceDrones\AceDrones\bin\Debug\AceDrones.exe.config
+C:\Users\30023737\source\repos\AceDrones\AceDrones\bin\Debug\AceDrones.exe
+C:\Users\30023737\source\repos\AceDrones\AceDrones\bin\Debug\AceDrones.pdb
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.csprojAssemblyReference.cache
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.AceDronesForm.resources
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.Properties.Resources.resources
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.csproj.GenerateResource.cache
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.csproj.CoreCompileInputs.cache
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.exe
+C:\Users\30023737\source\repos\AceDrones\AceDrones\obj\Debug\AceDrones.pdb
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\bin\Debug\AceDrones.exe.config
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\bin\Debug\AceDrones.exe
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\bin\Debug\AceDrones.pdb
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.csprojAssemblyReference.cache
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.AceDronesForm.resources
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.Properties.Resources.resources
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.csproj.GenerateResource.cache
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.csproj.CoreCompileInputs.cache
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.exe
+D:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.pdb
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.csprojAssemblyReference.cache
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.AceDronesForm.resources
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.Properties.Resources.resources
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.csproj.GenerateResource.cache
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.csproj.CoreCompileInputs.cache
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.exe
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\obj\Debug\AceDrones.pdb
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\bin\Debug\AceDrones.exe.config
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\bin\Debug\AceDrones.exe
+E:\Assesment\C#\Term 2\Assesment\AceDrones\AceDrones\bin\Debug\AceDrones.pdb

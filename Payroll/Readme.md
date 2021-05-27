@@ -9,7 +9,7 @@
 <div>
 This program is more than just the payroll input accounting program<br>
 It adds data with a sorting method so it is easy to search it when its nessesary.<br>
-There is actually better version of this that I made with Flutter AVL Tree Visual <a href = "https://github.com/profiteroles/All-My-Flutter-Apps/tree/main/AVL-Balance-Tree">click here</a><br>
+There is actually better version of this that I made with Flutter AVL Tree Visual <a href = "https://github.com/profiteroles/All-My-Flutter-Apps/tree/main/AVL-Balance-Tree">click here</a> to see it.<br>
 <br>
 </div>
 <div class="column">

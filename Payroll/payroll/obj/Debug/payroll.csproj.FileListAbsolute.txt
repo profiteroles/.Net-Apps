@@ -1,0 +1,20 @@
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\bin\Debug\payroll.exe.config
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\bin\Debug\payroll.exe
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\bin\Debug\payroll.pdb
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.csprojAssemblyReference.cache
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.PayrollForm.resources
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.Properties.Resources.resources
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.csproj.GenerateResource.cache
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.csproj.CoreCompileInputs.cache
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.exe
+C:\Users\ProFitErolPC\source\repos\payroll\payroll\obj\Debug\payroll.pdb
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\bin\Debug\payroll.exe.config
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\bin\Debug\payroll.exe
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\bin\Debug\payroll.pdb
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.csprojAssemblyReference.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.PayrollForm.resources
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.Properties.Resources.resources
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.csproj.GenerateResource.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.csproj.CoreCompileInputs.cache
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.exe
+D:\Learning Materials\DIPLOMA\Assesment\C#\2\payroll\payroll\obj\Debug\payroll.pdb

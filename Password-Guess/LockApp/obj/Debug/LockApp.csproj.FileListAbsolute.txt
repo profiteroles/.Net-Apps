@@ -1,0 +1,7 @@
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\bin\Debug\LockApp.exe.config
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\bin\Debug\LockApp.exe
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\bin\Debug\LockApp.pdb
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\obj\Debug\LockApp.csprojAssemblyReference.cache
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\obj\Debug\LockApp.csproj.CoreCompileInputs.cache
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\obj\Debug\LockApp.exe
+C:\Users\30023737\Documents\Erol\C#\LockApp\LockApp\obj\Debug\LockApp.pdb
